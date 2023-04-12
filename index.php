@@ -1,4 +1,3 @@
 <?php
 
-echo "hola 
-";
+echo "hola mundo       nueva hola";
